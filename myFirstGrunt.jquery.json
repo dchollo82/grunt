@@ -1,0 +1,28 @@
+{
+  "name": "myFirstGrunt",
+  "title": "grunting",
+  "description": "The best jQuery plugin ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dholloway/myFirstGrunt",
+  "author": {
+    "name": "David Holloway",
+    "email": "dholloway@criticalmass.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dholloway/myFirstGrunt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dholloway/myFirstGrunt/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/dholloway/myFirstGrunt/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
